@@ -1,4 +1,4 @@
 # list_of_companies
 # hello everyone
-# i have created list of companies foe your next job
+# i have created list of top companies you can apply for your next job
 # Enjoy !
